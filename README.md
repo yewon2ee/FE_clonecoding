@@ -12,7 +12,7 @@
 - [x] `components`, `assets`, `pages` 폴더 구분
 - [x] 상단 `Header`는 스크롤해도 고정됨
 - [x] 카드 9개 생성, 3개씩 정렬
-- [x] 하단 `Footer` 포함
+- [x] 하단 `Footer` 포함..
 
 ---
 
