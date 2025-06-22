@@ -1,10 +1,14 @@
-function App() {
+import Header from './components/Header';
+import AlbumPage from './pages/AlbumPage';
+import Footer from "./components/Footer";
 
+function App() {
   return (
     <>
-      화이팅! 
+      <Header />
+      <AlbumPage/>
+      <Footer/>
     </>
-  )
+  );
 }
-
-export default App
+export default App;
